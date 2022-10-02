@@ -1,5 +1,5 @@
 <pre>
-<?php 
+<?php
 $data = [
   'str' => 0,
   '7' => 1,
@@ -9,3 +9,10 @@ $data = [
   null => 5,
 ];
 print_r($data);
+
+$frutes = [
+  'orange' => 'みかん',
+  'peach'  => 'もも',
+  'apple'  => 'りんご',
+];
+print_r($frutes);
